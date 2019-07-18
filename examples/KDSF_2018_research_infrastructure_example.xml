@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Berichtsjahr: 2018 -->
+<kdsf:kdsf
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf-basis="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf-basis.xsd"
+	xmlns:cf="urn:xmlns:org:eurocris:cerif-1.6-2">
+	<kdsf:Forschungsinfrastrukturen>
+		<kdsf:ListeDerForschungsinfrastrukturen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:ForschungsinfrastrukturtypId>kdsf:Wissensressourcen
+				</kdsf-basis:ForschungsinfrastrukturtypId>
+				<kdsf-basis:ForschungsinfrastrukturartId>kdsf:Verteilt
+				</kdsf-basis:ForschungsinfrastrukturartId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:ForschungsinfrastrukturId>research_infrastructure_1
+			</kdsf:ForschungsinfrastrukturId>
+		</kdsf:ListeDerForschungsinfrastrukturen>
+	</kdsf:Forschungsinfrastrukturen>
+	<kdsf-basis:kdsf-basis>
+		<kdsf-basis:Organisationseinheit>
+			<cf:cfOrgUnitId>orgunit_13</cf:cfOrgUnitId>
+			<cf:cfName cfLangCode="de" cfTrans="o">Juristische Fakultät
+			</cf:cfName>
+		</kdsf-basis:Organisationseinheit>
+		<kdsf-basis:Organisationseinheit>
+			<cf:cfOrgUnitId>orgunit_5</cf:cfOrgUnitId>
+			<cf:cfName cfLangCode="de" cfTrans="o">Wirtschaftswissenschaftliche
+				Fakultät</cf:cfName>
+		</kdsf-basis:Organisationseinheit>
+		<kdsf-basis:Forschungsinfrastruktur>
+			<cf:cfEquipId>research_infrastructure_1</cf:cfEquipId>
+			<cf:cfName cfLangCode="de" cfTrans="o">Forschungsinfrastruktur
+				Bankwesen Projekte</cf:cfName>
+			<cf:cfOrgUnit_Equip>
+				<cf:cfOrgUnitId>orgunit_13</cf:cfOrgUnitId>
+				<cf:cfClassId>Betreiber</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93e-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfOrgUnit_Equip>
+			<cf:cfOrgUnit_Equip>
+				<cf:cfOrgUnitId>orgunit_5</cf:cfOrgUnitId>
+				<cf:cfClassId>Koordinator</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93e-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfOrgUnit_Equip>
+			<cf:cfResPubl_Equip>
+				<cf:cfResPublId>publication_50</cf:cfResPublId>
+				<cf:cfClassId>cf7799e5-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>6e0d9af0-1cd6-11e1-8bc2-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfResPubl_Equip>
+			<cf:cfResPubl_Equip>
+				<cf:cfResPublId>publication_51</cf:cfResPublId>
+				<cf:cfClassId>cf7799e5-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>6e0d9af0-1cd6-11e1-8bc2-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfResPubl_Equip>
+			<kdsf-basis:ForschungsinfrastrukturartId>kdsf:Verteilt
+			</kdsf-basis:ForschungsinfrastrukturartId>
+			<kdsf-basis:Nutzung>
+				<kdsf-basis:AnzahlNutzer>12</kdsf-basis:AnzahlNutzer>
+				<kdsf-basis:AnzahlGenutzteStunden>144
+				</kdsf-basis:AnzahlGenutzteStunden>
+				<kdsf-basis:AnzahlNutzungszugriffe>144
+				</kdsf-basis:AnzahlNutzungszugriffe>
+			</kdsf-basis:Nutzung>
+			<kdsf-basis:ForschungsinfrastrukturtypId>kdsf:Wissensressourcen
+			</kdsf-basis:ForschungsinfrastrukturtypId>
+			<kdsf-basis:ZugangsartId>kdsf:UserAccess</kdsf-basis:ZugangsartId>
+		</kdsf-basis:Forschungsinfrastruktur>
+	</kdsf-basis:kdsf-basis>
+</kdsf:kdsf>
