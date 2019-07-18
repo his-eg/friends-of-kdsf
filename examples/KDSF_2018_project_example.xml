@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Berichtsjahr: 2018 -->
+<kdsf:kdsf
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf-basis="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf-basis.xsd"
+	xmlns:cf="urn:xmlns:org:eurocris:cerif-1.6-2">
+	<kdsf:Drittmittel>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:Bund</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:ForschungsfeldId>AM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>900000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:ForschungsfeldId>MM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>240000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>1490000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>920000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:Bund</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2940</kdsf-basis:FachId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>900000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>1210000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>980000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2960</kdsf-basis:FachId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>290000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmitteleinnahmen>
+			<kdsf:Ausdifferenzierung>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2936</kdsf-basis:FachId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:Wert>240000.00</kdsf:Wert>
+		</kdsf:Drittmitteleinnahmen>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Die Rolle der Banken in der Eurokrise</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:KoordinatorEinrichtung>orgunit_22
+				</kdsf:KoordinatorEinrichtung>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2026-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VWS EGC 1526/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>6480000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_2</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Auswirkungen einer Regulierung des Bankensektors
+				</kdsf:Titel>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2024-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VW EGC 1806/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>3000000.00</kdsf:Bewilligungssumme>
+				<kdsf:TitelDesUebergeordnetenProjekts>Die Rolle der Banken in der
+					Eurokrise</kdsf:TitelDesUebergeordnetenProjekts>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_5</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Langfristige Auswirkungen einer Staatsfinanzierung durch
+					Schulden</kdsf:Titel>
+				<kdsf:Projektbeginn>2013-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2020-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>2014-789345</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>830000.00</kdsf:Bewilligungssumme>
+				<kdsf:TitelDesUebergeordnetenProjekts>Entstehung und Verlauf von
+					Finanzkrisen</kdsf:TitelDesUebergeordnetenProjekts>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_16</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Entstehung und Verlauf von Finanzkrisen</kdsf:Titel>
+				<kdsf:Projektbeginn>2013-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2019-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>WS 1506/4-1</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>1450000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_14</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Nicht erschöpfte Potenziale interaktiver,
+					audio-visueller Medien in dem Hochschulumfeld</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:Projektbeginn>2016-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2021-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:SonstigeDrittmittelgeber
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Bewilligungssumme>3400000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>0130</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>GD</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_23</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Zukünftige Rolle digitaler Medien bei dem
+					Wissenstransfer in der Lehre und Forschung</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:Projektbeginn>2016-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2021-10</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:SonstigeDrittmittelgeber
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>17-3678A</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>1450000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>0130</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>WM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_22</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Auswirkungen staatlicher Subventionen von erneuerbaren
+					Energien</kdsf:Titel>
+				<kdsf:Projektbeginn>2018-10</kdsf:Projektbeginn>
+				<kdsf:Projektende>2021-09</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:NichtErklaertPrivateMittelgeber
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>16EM523-7</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>2430000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2905</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>TW</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_17</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Entstehung und Verlauf von Finanzkrisen</kdsf:Titel>
+				<kdsf:Projektbeginn>2013-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2019-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>WS 1506/4-1</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>1450000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_14</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Einfluss von Interessengruppen auf die Regulierung der
+					Rechnungslegung</kdsf:Titel>
+				<kdsf:Projektbeginn>2018-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2022-09</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Bewilligungssumme>1700000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2210</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FA</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_13</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Auswirkungen einer Regulierung des Bankensektors
+				</kdsf:Titel>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2024-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VW EGC 1806/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>3000000.00</kdsf:Bewilligungssumme>
+				<kdsf:TitelDesUebergeordnetenProjekts>Die Rolle der Banken in der
+					Eurokrise</kdsf:TitelDesUebergeordnetenProjekts>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_5</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Die Rolle der Banken in der Eurokrise</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:KoordinatorEinrichtung>orgunit_22
+				</kdsf:KoordinatorEinrichtung>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2026-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VWS EGC 1526/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>6480000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_2</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Entstehung und Verlauf von Finanzkrisen</kdsf:Titel>
+				<kdsf:Projektbeginn>2013-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2019-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>WS 1506/4-1</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>1450000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2960</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_14</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Die Rolle der Banken in der Eurokrise</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:KoordinatorEinrichtung>orgunit_22
+				</kdsf:KoordinatorEinrichtung>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2026-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VWS EGC 1526/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>6480000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_2</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>New Challenges in International Supply Chain Management
+				</kdsf:Titel>
+				<kdsf:Projektbeginn>2017-04</kdsf:Projektbeginn>
+				<kdsf:Projektende>2020-03</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>KF24567K04</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>4567000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2960</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_6</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Flexibilisierungspotentiale am europäischen Arbeitsmarkt
+				</kdsf:Titel>
+				<kdsf:Koordinationsrolle>false</kdsf:Koordinationsrolle>
+				<kdsf:Projektbeginn>2018-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2025-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:Bund</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>13N14378</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>2779000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2940</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>AM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_11</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Die Rolle der Banken in der Eurokrise</kdsf:Titel>
+				<kdsf:Koordinationsrolle>true</kdsf:Koordinationsrolle>
+				<kdsf:KoordinatorEinrichtung>orgunit_22
+				</kdsf:KoordinatorEinrichtung>
+				<kdsf:Projektbeginn>2018-07</kdsf:Projektbeginn>
+				<kdsf:Projektende>2026-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>VWS EGC 1526/4-3</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>6480000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_2</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Planung und Steuerung flexibler Lieferketten bei
+					unsicherer Nachfragesituation</kdsf:Titel>
+				<kdsf:Projektbeginn>2016-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2022-12</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Bewilligungssumme>678000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2936</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>MM</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_10</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+		<kdsf:Drittmittelprojekt>
+			<kdsf:Ausdifferenzierung>
+				<kdsf:Titel>Steuerliche Aspekte der Unternehmensgründung
+				</kdsf:Titel>
+				<kdsf:Projektbeginn>2018-01</kdsf:Projektbeginn>
+				<kdsf:Projektende>2021-06</kdsf:Projektende>
+				<kdsf-basis:MittelgeberId>kdsf:NichtErklaertPrivateMittelgeber
+				</kdsf-basis:MittelgeberId>
+				<kdsf:Foerderkennzeichen>rt56783-34</kdsf:Foerderkennzeichen>
+				<kdsf:Bewilligungssumme>6780000.00</kdsf:Bewilligungssumme>
+			</kdsf:Ausdifferenzierung>
+			<kdsf:Aggregationsniveau>
+				<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+				<kdsf-basis:ForschungsfeldId>FA</kdsf-basis:ForschungsfeldId>
+			</kdsf:Aggregationsniveau>
+			<kdsf:DrittmittelprojektId>project_8</kdsf:DrittmittelprojektId>
+		</kdsf:Drittmittelprojekt>
+	</kdsf:Drittmittel>
+	<kdsf-basis:kdsf-basis>
+		<kdsf-basis:Organisationseinheit>
+			<cf:cfOrgUnitId>orgunit_5</cf:cfOrgUnitId>
+			<cf:cfName cfLangCode="de" cfTrans="o">Wirtschaftswissenschaftliche
+				Fakultät</cf:cfName>
+		</kdsf-basis:Organisationseinheit>
+		<kdsf-basis:Organisationseinheit>
+			<cf:cfOrgUnitId>orgunit_22</cf:cfOrgUnitId>
+			<cf:cfName cfLangCode="de" cfTrans="o">Institut für Banken und
+				Finanzierung</cf:cfName>
+		</kdsf-basis:Organisationseinheit>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_2</cf:cfProjId>
+			<cf:cfStartDate>2018-07-01</cf:cfStartDate>
+			<cf:cfEndDate>2026-06-30</cf:cfEndDate>
+			<cf:cfAcro>0102001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Die Rolle der Banken
+				in der Eurokrise</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>2</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">6480000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+			<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>1040000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+			<kdsf-basis:Koordinationsrolle>true</kdsf-basis:Koordinationsrolle>
+			<kdsf-basis:KoordinatorEinrichtung>orgunit_22
+			</kdsf-basis:KoordinatorEinrichtung>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_5</cf:cfProjId>
+			<cf:cfStartDate>2018-07-01</cf:cfStartDate>
+			<cf:cfEndDate>2024-06-30</cf:cfEndDate>
+			<cf:cfAcro>010200101</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Auswirkungen einer
+				Regulierung des Bankensektors</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>5</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">3000000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>IIB</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:ÜbergeordnetesProjektId>2
+			</kdsf-basis:ÜbergeordnetesProjektId>
+			<kdsf-basis:Drittmitteleinnahmen>1335000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_6</cf:cfProjId>
+			<cf:cfStartDate>2017-04-01</cf:cfStartDate>
+			<cf:cfEndDate>2020-03-31</cf:cfEndDate>
+			<cf:cfAcro>0103001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="en" cfTrans="o">New Challenges in
+				International Supply Chain Management</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>6</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">4567000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2960</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>1400000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_8</cf:cfProjId>
+			<cf:cfStartDate>2018-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2021-06-30</cf:cfEndDate>
+			<cf:cfAcro>0105001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Steuerliche Aspekte
+				der Unternehmensgründung</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>8</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">6780000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>FA</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:NichtErklaertPrivateMittelgeber
+			</kdsf-basis:MittelgeberId>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_10</cf:cfProjId>
+			<cf:cfStartDate>2017-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2022-12-31</cf:cfEndDate>
+			<cf:cfAcro>0103002</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Planung und Steuerung
+				flexibler Lieferketten bei unsicherer Nachfragesituation
+			</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>10</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">678000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2936</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>MM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>650000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_11</cf:cfProjId>
+			<cf:cfStartDate>2018-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2024-12-31</cf:cfEndDate>
+			<cf:cfAcro>0109001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Flexibilisierungspotentiale
+				am europäischen Arbeitsmarkt</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>11</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">2779000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2940</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>AM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:Bund</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>900000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+			<kdsf-basis:Koordinationsrolle>false</kdsf-basis:Koordinationsrolle>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_13</cf:cfProjId>
+			<cf:cfStartDate>2018-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2022-09-30</cf:cfEndDate>
+			<cf:cfAcro>0104001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Einfluss von
+				Interessengruppen auf die Regulierung der Rechnungslegung
+			</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>13</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">1700000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2210</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>FA</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_14</cf:cfProjId>
+			<cf:cfStartDate>2013-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2018-12-31</cf:cfEndDate>
+			<cf:cfAcro>0102002</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Entstehung und Verlauf
+				von Finanzkrisen</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>14</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">1450000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2740</kdsf-basis:FachId>
+			<kdsf-basis:FachId>2960</kdsf-basis:FachId>
+			<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>1450000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_16</cf:cfProjId>
+			<cf:cfStartDate>2013-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2019-12-31</cf:cfEndDate>
+			<cf:cfAcro>010200202</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Langfristige
+				Auswirkungen einer Staatsfinanzierung durch Schulden</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>16</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">830000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2980</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>FKM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:GewerblicheWirtschaftUndSonstigePrivateBereiche
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:ÜbergeordnetesProjektId>14
+			</kdsf-basis:ÜbergeordnetesProjektId>
+			<kdsf-basis:Drittmitteleinnahmen>830000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_17</cf:cfProjId>
+			<cf:cfStartDate>2018-10-01</cf:cfStartDate>
+			<cf:cfEndDate>2021-09-30</cf:cfEndDate>
+			<cf:cfAcro>0102003</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Auswirkungen
+				staatlicher Subventionen von erneuerbaren Energien</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>17</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">2430000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>2905</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>TW</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:NichtErklaertPrivateMittelgeber
+			</kdsf-basis:MittelgeberId>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_22</cf:cfProjId>
+			<cf:cfStartDate>2017-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2021-10-31</cf:cfEndDate>
+			<cf:cfAcro>0110002</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Zukünftige Rolle
+				digitaler Medien bei dem Wissenstransfer in der Lehre und Forschung
+			</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>22</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">1450000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>0130</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>WM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:SonstigeDrittmittelgeber
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>900000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+			<kdsf-basis:Koordinationsrolle>true</kdsf-basis:Koordinationsrolle>
+		</kdsf-basis:Drittmittelprojekt>
+		<kdsf-basis:Drittmittelprojekt>
+			<cf:cfProjId>project_23</cf:cfProjId>
+			<cf:cfStartDate>2017-01-01</cf:cfStartDate>
+			<cf:cfEndDate>2021-12-31</cf:cfEndDate>
+			<cf:cfAcro>0110001</cf:cfAcro>
+			<cf:cfTitle cfLangCode="de" cfTrans="o">Nicht erschöpfte
+				Potenziale interaktiver, audio-visueller Medien in dem
+				Hochschulumfeld</cf:cfTitle>
+			<cf:cfProj_Class>
+				<cf:cfClassId>cf7799e1-3477-11e1-b86c-0800200c9a66</cf:cfClassId>
+				<cf:cfClassSchemeId>759af93a-34ae-11e1-b86c-0800200c9a66
+				</cf:cfClassSchemeId>
+			</cf:cfProj_Class>
+			<cf:cfProj_Fund>
+				<cf:cfFundId>23</cf:cfFundId>
+				<cf:cfClassId>4e664be9-100d-481c-b60f-b62a94078bac</cf:cfClassId>
+				<cf:cfClassSchemeId>a620795c-7015-482e-bdba-43a761b337a1
+				</cf:cfClassSchemeId>
+				<cf:cfAmount cfCurrCode="EUR">3400000.00</cf:cfAmount>
+			</cf:cfProj_Fund>
+			<kdsf-basis:FachId>0130</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>GD</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:MittelgeberId>kdsf:SonstigeDrittmittelgeber
+			</kdsf-basis:MittelgeberId>
+			<kdsf-basis:Drittmitteleinnahmen>2100000.00
+			</kdsf-basis:Drittmitteleinnahmen>
+			<kdsf-basis:Koordinationsrolle>true</kdsf-basis:Koordinationsrolle>
+		</kdsf-basis:Drittmittelprojekt>
+	</kdsf-basis:kdsf-basis>
+</kdsf:kdsf>

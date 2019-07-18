@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Berichtsjahr: 2018 -->
+<kdsf:kdsf
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
+	xmlns:kdsf-basis="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf-basis.xsd"
+	xmlns:cf="urn:xmlns:org:eurocris:cerif-1.6-2">
+	<kdsf-basis:kdsf-basis>
+		<kdsf-basis:Person>
+			<cf:cfPersId>person_2604</cf:cfPersId>
+			<cf:cfPersName_Pers>
+				<cf:cfPersNameId>person_2604</cf:cfPersNameId>
+				<cf:cfClassId>64f0eb00-462d-4737-8033-7efac82decf3</cf:cfClassId>
+				<cf:cfClassSchemeId>7375609d-cfa6-45ce-a803-75de69abe21f
+				</cf:cfClassSchemeId>
+				<cf:cfFamilyNames>Mayer</cf:cfFamilyNames>
+				<cf:cfFirstNames>Gabriele</cf:cfFirstNames>
+			</cf:cfPersName_Pers>
+		</kdsf-basis:Person>
+		<kdsf-basis:StrukturiertesPromotionsprogramm>
+			<kdsf-basis:Titel>Betriebsorgansiation angesichts des digitalen
+				Wandels</kdsf-basis:Titel>
+			<kdsf-basis:ID>sdcp_1</kdsf-basis:ID>
+			<kdsf-basis:FachId>2210</kdsf-basis:FachId>
+			<kdsf-basis:ForschungsfeldId>MM</kdsf-basis:ForschungsfeldId>
+			<kdsf-basis:cfOrgUnitId>1</kdsf-basis:cfOrgUnitId>
+			<kdsf-basis:FinanzierungsformId>kdsf:Sondermittel
+			</kdsf-basis:FinanzierungsformId>
+			<kdsf-basis:KooperationId>1</kdsf-basis:KooperationId>
+			<kdsf-basis:BeteiligteInstitutionen>
+				<kdsf-basis:Name>57</kdsf-basis:Name>
+				<kdsf-basis:Land>
+					<cf:cfCountryCode>TODO</cf:cfCountryCode>
+				</kdsf-basis:Land>
+			</kdsf-basis:BeteiligteInstitutionen>
+			<kdsf-basis:SprecherId>person_2604</kdsf-basis:SprecherId>
+		</kdsf-basis:StrukturiertesPromotionsprogramm>
+	</kdsf-basis:kdsf-basis>
+</kdsf:kdsf>
