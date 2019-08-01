@@ -56,20 +56,21 @@ function renderCSV(data) {
 	return res;
 }
 
-function renderResponse() {
-	let url = this.responseURL;
-	let pos = url.indexOf('key_mapping/') + 12;
-	let file = url.substring(pos);
-	let html = renderCSV(this.responseText);
-	let id = '#t' + file.replace('/', '_').replace(/\.csv/, '');
-	console.log(id);
-	document.querySelector(id).innerHTML = html;
-}
-
 
 //-----------------------------------------------------
 //   Handle KDSF mapping tables
 //-----------------------------------------------------
+
+
+function renderResponse() {
+	let url = this.responseURL;
+	let pos = url.indexOf('key_mapping/') + 12;
+	let file = url.substring(pos);
+	let id = '#t' + file.replace('/', '_').replace(/\.csv/, '');
+	let html = renderCSV(this.responseText);
+	console.log(id);
+	document.querySelector(id).innerHTML = html;
+}
 
 
 function handleMappings() {
@@ -93,8 +94,8 @@ function handleMappings() {
 		let id = escapeHtml(entry.file.replace('/', '_'));
 		html = html
 			+ '<h3 id="' + id + '">' + escapeHtml(entry.title) + '</h3>'
-			+ '<a href="key_mapping/' + escapeHtml(entry.file) + '.csv">CSV</a>'
-			+ '<div id="t' + id + '"></div>';
+			+ '<div id="t' + id + '"></div>'
+			+ '<p><a href="key_mapping/' + escapeHtml(entry.file) + '.csv">CSV-Export</a> * <a href="#mapping">Zurück zur Übersicht</a><br><br>';
 
 		let xhr = new XMLHttpRequest();
 		xhr.open('GET', 'key_mapping/' + entry.file + ".csv");
