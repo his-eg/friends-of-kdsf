@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 5px;
+	border: 1px solid #000;
+}
+
+th {
+	background-color: #DDD;
+	text-align: left;
+}
