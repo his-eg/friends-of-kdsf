@@ -450,29 +450,29 @@
 			<xs:element name="ListeDerPublikationen" minOccurs="0" maxOccurs="unbounded">
 				<xs:complexType>
 					<xs:sequence>
-            <xs:element name="Ausdifferenzierung">
-              <xs:complexType>
-                <xs:sequence>
-                  <xs:element name="SchöpferId" type="cf:cfId__Type" minOccurs="0"/>
-                  <xs:element name="TitelDerPublikation" type="xs:string" minOccurs="0"/>
-                  <xs:element name="Veroeffentlichungsjahr" type="xs:gYear" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:VerlagId" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:NameDerQuelleId" minOccurs="0"/>
-                  <xs:element name="Identifier" type="xs:string" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:FormatId" minOccurs="0"/>
-                  <xs:element name="Sprachcode" type="xs:string" minOccurs="0"/>
-                  <xs:element name="Zugangsrechte" type="xs:string" minOccurs="0"/>
-                  <xs:element name="PeerReviewed" type="xs:boolean" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:QualifikationsschriftId" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:DokumenttypId" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:PublikationstypId" minOccurs="0"/>
-                  <xs:element ref="kdsf-basis:RessourceId" minOccurs="0"/>
-                  <xs:element name="Foerderer" type="xs:string" minOccurs="0"/>
-                  <xs:element name="FoerderkennzeichenDerPublikation" type="xs:string" minOccurs="0"/>
-                </xs:sequence>
-              </xs:complexType>
-            </xs:element>
-            <xs:element name="Aggregationsniveau">
+			            <xs:element name="Ausdifferenzierung">
+			              <xs:complexType>
+			                <xs:sequence>
+			                  <xs:element name="SchöpferId" type="cf:cfId__Type" minOccurs="0"/>
+			                  <xs:element name="TitelDerPublikation" type="xs:string" minOccurs="0"/>
+			                  <xs:element name="Veroeffentlichungsjahr" type="xs:gYear" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:VerlagId" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:NameDerQuelleId" minOccurs="0"/>
+			                  <xs:element name="Identifier" type="xs:string" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:FormatId" minOccurs="0"/>
+			                  <xs:element name="Sprachcode" type="xs:string" minOccurs="0"/>
+			                  <xs:element name="Zugangsrechte" type="xs:string" minOccurs="0"/>
+			                  <xs:element name="PeerReviewed" type="xs:boolean" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:QualifikationsschriftId" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:DokumenttypId" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:PublikationstypId" minOccurs="0"/>
+			                  <xs:element ref="kdsf-basis:RessourceId" minOccurs="0"/>
+			                  <xs:element name="Foerderer" type="xs:string" minOccurs="0"/>
+			                  <xs:element name="FoerderkennzeichenDerPublikation" type="xs:string" minOccurs="0"/>
+			                </xs:sequence>
+			              </xs:complexType>
+			            </xs:element>
+			            <xs:element name="Aggregationsniveau">
 							<xs:complexType>
 								<xs:sequence>
 									<xs:element ref="kdsf-basis:FachId" minOccurs="0"/>
@@ -508,13 +508,13 @@
                 </xs:sequence>
               </xs:complexType>
             </xs:element>
-            <xs:element name="Aggregationsniveau">
+            <xs:element name="Aggregationsniveau" minOccurs="0">
               <xs:complexType>
                 <xs:sequence>
-                  <xs:element name="ForschungsinfrastrukturId" type="cf:cfId__Type" minOccurs="0" maxOccurs="unbounded"/>
                 </xs:sequence>
               </xs:complexType>
             </xs:element>
+            <xs:element name="ForschungsinfrastrukturId" type="cf:cfId__Type" minOccurs="0" maxOccurs="unbounded"/>
           </xs:sequence>
 	</xs:complexType>
       </xs:element>
