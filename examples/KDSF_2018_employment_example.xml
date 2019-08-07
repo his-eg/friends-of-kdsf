@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- Berichtsjahr: 2018 -->
+
 <kdsf:kdsf
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
 	xmlns:kdsf="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd"
 	xmlns:kdsf-basis="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf-basis.xsd"
-	xmlns:cf="urn:xmlns:org:eurocris:cerif-1.6-2">
+	xmlns:cf="urn:xmlns:org:eurocris:cerif-1.6-2"
+	xsi:schemaLocation="http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf.xsd xsd/kdsf.xsd http://kerndatensatz-forschung.de/version1/technisches_datenmodell/xsd/kdsf-basis.xsd xsd/kdsf-basis.xsd urn:xmlns:org:eurocris:cerif-1.6-2 xsd/CERIF_1.6_2.xsd">
+
+
 	<kdsf:Beschaeftigte>
 		<kdsf:Gesamtpersonal>3</kdsf:Gesamtpersonal>
 		<kdsf:AnzahlPersonenKopfzahlen>
