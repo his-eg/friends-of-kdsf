@@ -11,10 +11,10 @@
 	<kdsf:Forschungsinfrastrukturen>
 		<kdsf:ListeDerForschungsinfrastrukturen>
 			<kdsf:Ausdifferenzierung>
-				<kdsf-basis:ForschungsinfrastrukturtypId>kdsf:Wissensressourcen
-				</kdsf-basis:ForschungsinfrastrukturtypId>
-				<kdsf-basis:ForschungsinfrastrukturartId>kdsf:Verteilt
-				</kdsf-basis:ForschungsinfrastrukturartId>
+				<kdsf-basis:TypDerForschungsinfrastrukturId>kdsf:Wissensressourcen
+				</kdsf-basis:TypDerForschungsinfrastrukturId>
+				<kdsf-basis:ArtDerForschungsinfrastrukturId>kdsf:Verteilt
+				</kdsf-basis:ArtDerForschungsinfrastrukturId>
 			</kdsf:Ausdifferenzierung>
 			<kdsf:ForschungsinfrastrukturId>research_infrastructure_1
 			</kdsf:ForschungsinfrastrukturId>
@@ -59,18 +59,18 @@
 				<cf:cfClassSchemeId>6e0d9af0-1cd6-11e1-8bc2-0800200c9a66
 				</cf:cfClassSchemeId>
 			</cf:cfResPubl_Equip>
-			<kdsf-basis:ForschungsinfrastrukturartId>kdsf:Verteilt
-			</kdsf-basis:ForschungsinfrastrukturartId>
+			<kdsf-basis:ArtDerForschungsinfrastrukturId>kdsf:Verteilt
+			</kdsf-basis:ArtDerForschungsinfrastrukturId>
 			<kdsf-basis:Nutzung>
-				<kdsf-basis:AnzahlNutzer>12</kdsf-basis:AnzahlNutzer>
 				<kdsf-basis:AnzahlGenutzteStunden>144
 				</kdsf-basis:AnzahlGenutzteStunden>
+				<kdsf-basis:AnzahlNutzer>12</kdsf-basis:AnzahlNutzer>
 				<kdsf-basis:AnzahlNutzungszugriffe>144
 				</kdsf-basis:AnzahlNutzungszugriffe>
 			</kdsf-basis:Nutzung>
-			<kdsf-basis:ForschungsinfrastrukturtypId>kdsf:Wissensressourcen
-			</kdsf-basis:ForschungsinfrastrukturtypId>
-			<kdsf-basis:ZugangsartId>kdsf:UserAccess</kdsf-basis:ZugangsartId>
+			<kdsf-basis:TypDerForschungsinfrastrukturId>kdsf:Wissensressourcen
+			</kdsf-basis:TypDerForschungsinfrastrukturId>
+			<kdsf-basis:ArtDesZugangsId>kdsf:UserAccess</kdsf-basis:ArtDesZugangsId>
 		</kdsf-basis:Forschungsinfrastruktur>
 	</kdsf-basis:kdsf-basis>
 </kdsf:kdsf>

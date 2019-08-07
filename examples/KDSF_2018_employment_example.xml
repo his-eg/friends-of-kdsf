@@ -309,7 +309,7 @@
 				<kdsf-basis:QualifizierungsverfahrenId>kdsf:Habilitiert
 				</kdsf-basis:QualifizierungsverfahrenId>
 			</kdsf-basis:Qualifizierungsverfahren>
-			<kdsf-basis:Beschaeftigung>
+			<kdsf-basis:Beschaeftigung xsi:type="kdsf-basis:ProfessorenBeschaeftigung__Type">
 				<kdsf-basis:FachId>2960</kdsf-basis:FachId>
 				<kdsf-basis:ForschungsfeldId>GD</kdsf-basis:ForschungsfeldId>
 				<kdsf-basis:cfOrgUnitId>61</kdsf-basis:cfOrgUnitId>
