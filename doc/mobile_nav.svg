@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" class="one-color his-icon his-icon-mobile_nav" height="100%" width="100%">
+
+<g>
+	<g class="icon-style-wrapper icon-fill--rgb255-255-255 icon-stroke--rgb0-106-178 icon-stroke-width--6 icon-stroke-miterlimit--10" style="fill:#FFFFFF;stroke:#006AB2;stroke-width:6;stroke-miterlimit:10;"><path class="st0" d="M23.1,13.2"></path></g>
+	<g>
+		<g class="icon-style-wrapper icon-fill--rgb0-106-178" style="fill:#006AB2;"><path class="st1" d="M54.1,46H9.9C6.7,46,4,48.7,4,52.1v5.8C4,61.3,6.7,64,9.9,64h44.2c3.3,0,5.9-2.7,5.9-6.1v-5.8
+			C60,48.7,57.3,46,54.1,46z"></path></g>
+	</g>
+	<g>
+		<g class="icon-style-wrapper icon-fill--rgb0-106-178" style="fill:#006AB2;"><path class="st1" d="M54.1,23H9.9C6.7,23,4,25.7,4,29.1v5.8C4,38.3,6.7,41,9.9,41h44.2c3.3,0,5.9-2.7,5.9-6.1v-5.8
+			C60,25.7,57.3,23,54.1,23z"></path></g>
+	</g>
+	<g class="icon-style-wrapper icon-fill--rgb0-106-178" style="fill:#006AB2;"><path class="st1" d="M54.1,0H9.9C6.7,0,4,2.7,4,6.1v5.8C4,15.3,6.7,18,9.9,18h44.2c3.3,0,5.9-2.7,5.9-6.1V6.1C60,2.7,57.3,0,54.1,0
+		z"></path></g>
+</g>
+</svg>
