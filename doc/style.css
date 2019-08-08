@@ -1,6 +1,102 @@
-body {
+body, html {
 	font-family: sans-serif;
+	background-color: #DDD;
+	margin: 0;
 }
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+/****** Navigation and Content Area    *********/
+
+nav {
+	left: 1em;
+	top: 1em;
+	padding: .5em;
+	border-radius: .5em;
+	position: absolute;
+	width: 15em;
+	overflow-x: hidden;
+	background-color: #FFF;
+}
+
+nav ul, nav li {
+	padding: 0;
+	margin: 0;
+	list-style:none;
+}
+
+nav a {
+	display: block;
+	background-color: #DDD;
+	margin: 2px;
+	padding: 0.2em 0.5em;
+	color: #000;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #FFF;
+	background-color: #AAA;
+}
+
+#content {
+	padding: .5em 1em;
+	margin: 1em;
+	margin-left: 18em;
+	border-radius: .5em;
+	background-color: #FFF;
+}
+
+#mobilenav {
+	display: none;
+}
+
+.github {
+	display: block;
+	float: right;
+	margin: -.5em -1em;
+	z-index: 1;
+}
+
+@media only screen and (max-width: 1024px) {
+	body, html {
+		background-color: #FFF;
+	}
+
+	nav {
+		left: auto;
+		top: auto;
+		padding: .5em;
+		position: inherit;
+		width: auto;
+		background-color: #FFF;
+	}
+
+	nav a {
+		padding: 0.5em 1em;
+		margin: 5px;
+	}
+
+	#content {
+		margin: 0em;
+	}
+
+	#mobilenav {
+		display: inline-block;
+		border: 0px;
+		background-color: #FFF;
+		margin-right: 1em;
+	}
+
+	.hidenav {
+		display: none;
+	}
+}
+
+/****** Content    *********/
+
 
 table {
 	border-collapse: collapse;
@@ -15,3 +111,4 @@ th {
 	background-color: #DDD;
 	text-align: left;
 }
+
