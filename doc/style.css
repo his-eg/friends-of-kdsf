@@ -49,10 +49,50 @@ nav a:hover {
 	background-color: #FFF;
 }
 
+#mobilenav {
+	display: none;
+}
+
 .github {
 	display: block;
 	float: right;
 	margin: -.5em -1em;
+	z-index: 1;
+}
+
+@media only screen and (max-width: 1024px) {
+	body, html {
+		background-color: #FFF;
+	}
+
+	nav {
+		left: auto;
+		top: auto;
+		padding: .5em;
+		position: inherit;
+		width: auto;
+		background-color: #FFF;
+	}
+
+	nav a {
+		padding: 0.5em 1em;
+		margin: 5px;
+	}
+
+	#content {
+		margin: 0em;
+	}
+
+	#mobilenav {
+		display: inline-block;
+		border: 0px;
+		background-color: #FFF;
+		margin-right: 1em;
+	}
+
+	.hidenav {
+		display: none;
+	}
 }
 
 /****** Content    *********/

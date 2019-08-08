@@ -68,7 +68,6 @@ function renderResponse() {
 	let file = url.substring(pos);
 	let id = '#t' + file.replace('/', '_').replace(/\.csv/, '');
 	let html = renderCSV(this.responseText);
-	console.log(id);
 	document.querySelector(id).innerHTML = html;
 }
 
@@ -86,11 +85,15 @@ function handleMappings() {
 	html = html + "</ul>";
 	document.querySelector('#mapping-navigation-placeholder').innerHTML = html;
 
+	let aTags = document.querySelectorAll('a');
+	for (let a of aTags) {
+		a.addEventListener('click', closeMobileNavigation);
+	}
+
 	onHashChange();
 }
 
 function onHashChange() {
-	console.log('hashchange', window.location.hash);
 	if (!window.location.hash) {
 		document.querySelector('#mapping-placeholder').innerHTML = '';
 		return;
@@ -112,9 +115,23 @@ function onHashChange() {
 			return;
 		}
 	}
+}
 
+function closeMobileNavigation() {
+	let nav = document.querySelector('nav');
+	nav.className = 'hidenav';
+}
+
+function onMobileNavigationButtonClick() {
+	let nav = document.querySelector('nav');
+	if (nav.className === '') {
+		nav.className = 'hidenav';
+	} else {
+		nav.className = '';
+	}
 }
 
 window.addEventListener('hashchange', onHashChange);
+document.querySelector('#mobilenav').addEventListener('click', onMobileNavigationButtonClick);
 
 handleMappings();
