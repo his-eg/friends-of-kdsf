@@ -9,72 +9,47 @@
 </head>
 <body>
 
-<h1>Friends of KDSF</h1>
+<nav>
 
-<i>Friends of KDSF</i> ist ein inoffizielles Repository mit Informationen zum
-<a href="https://www.kerndatensatz-forschung.de">Kerndatensatz-Forschung</a>.
+<h2>Friends Of KDSF</h2>
+
+<h2 id="mapping">Mapping</h2>
+<div id="mapping-navigation-placeholder"></div>
 
 <h2>Beispielexporte</h2>
 
 <ul>
-<li> <a href="examples/KDSF_2018_doctoral_example.xml">doctoral_example.xml</a>
-<li> <a href="examples/KDSF_2018_employment_example.xml">employment_example.xml</a>
-<li> <a href="examples/KDSF_2018_patent_example.xml">patent_example.xml</a>
-<li> <a href="examples/KDSF_2018_project_example.xml">project_example.xml</a>
-<li> <a href="examples/KDSF_2018_publication_example.xml">publication_example.xml</a>
-<li> <a href="examples/KDSF_2018_research_infrastructure_example.xml">research_infrastructure_example.xml</a>
+<li> <a href="examples/KDSF_2018_doctoral_example.xml">doctoral.xml</a>
+<li> <a href="examples/KDSF_2018_employment_example.xml">employment.xml</a>
+<li> <a href="examples/KDSF_2018_patent_example.xml">patent.xml</a>
+<li> <a href="examples/KDSF_2018_project_example.xml">project.xml</a>
+<li> <a href="examples/KDSF_2018_publication_example.xml">publication.xml</a>
+<li> <a href="examples/KDSF_2018_research_infrastructure_example.xml">research_infrastructure.xml</a>
 
 </ul>
-<h2 id="mapping">Mapping</h2>
+</nav>
 
+
+<div id="content">
+<a href="https://github.com/his-eg/friends-of-kdsf" class="github">
+<img width="149" height="149" src="doc/github.png" alt="Fork me on GitHub"></a>
+
+<h1>Friends of KDSF</h1>
+
+Friends of KDSF ist ein <i>inoffizielles</i> Repository mit technischen Informationen zum
+<a href="https://www.kerndatensatz-forschung.de">Kerndatensatz-Forschung</a>.
+
+<noscript>Diese Webseite liest benötigt JavaScript, um CSV-Dateien als Webseite darzustellen.</noscript>
+
+<p>&nbsp;
 
 <div id="mapping-placeholder"></div>
 <script id="mapping-data" type="application/json">
 [
 {
-	"kdsf_id": "Pu87",
-	"title": "Format",
-	"file": "cerif/format"
-},
-{
-	"kdsf_id": "Pu55",
-	"title": "Schöfpertyp",
-	"file": "cerif/schoepfertyp"
-},
-{
-	"kdsf_id": "Pu132",
-	"title": "Identifier",
-	"file": "cerif/identifier"
-},
-{
-	"kdsf_id": "Pu19",
-	"title": "Zugangsrechte",
-	"file": "cerif/zugangsrecht"
-},
-{
-	"kdsf_id": "Be11",
-	"title": "Personalkategorie",
-	"file": "ksdf/personalkategorie"
-},
-{
-	"kdsf_id": "Fi4",
-	"title": "Typ der Forschungsinfrastruktur",
-	"file": "ksdf/typForschungsinfrastruktur"
-},
-{
-	"kdsf_id": "Pu101",
-	"title": "Dokumenttyp",
-	"file": "ksdf/dokumenttyp"
-},
-{
-	"kdsf_id": "Pu146",
-	"title": "Qualifikationsschrift",
-	"file": "ksdf/qualifikationsschrift"
-},
-{
-	"kdsf_id": "Be32",
-	"title": "Tätigkeitsart",
-	"file": "ksdf/taetigkeitsart"
+	"kdsf_id": "Fi5",
+	"title": "Art Forschungsinfrastr.",
+	"file": "ksdf/artForschungsinfrastruktur"
 },
 {
 	"kdsf_id": "Be40",
@@ -82,19 +57,9 @@
 	"file": "ksdf/besoldung"
 },
 {
-	"kdsf_id": "Fi6",
-	"title": "Zugangsarten",
-	"file": "ksdf/zugangsart"
-},
-{
-	"kdsf_id": "Fi5",
-	"title": "Art der Forschungsinfrastruktur",
-	"file": "ksdf/artForschungsinfrastruktur"
-},
-{
-	"kdsf_id": "Na86",
-	"title": "Kooperation",
-	"file": "ksdf/kooperation"
+	"kdsf_id": "Pu101",
+	"title": "Dokumenttyp",
+	"file": "ksdf/dokumenttyp"
 },
 {
 	"kdsf_id": "Dr12",
@@ -107,6 +72,26 @@
 	"file": "ksdf/finanzierungsform"
 },
 {
+	"kdsf_id": "Pu87",
+	"title": "Format",
+	"file": "cerif/format"
+},
+{
+	"kdsf_id": "Pu132",
+	"title": "Identifier",
+	"file": "cerif/identifier"
+},
+{
+	"kdsf_id": "Na86",
+	"title": "Kooperation",
+	"file": "ksdf/kooperation"
+},
+{
+	"kdsf_id": "Be11",
+	"title": "Personalkategorie",
+	"file": "ksdf/personalkategorie"
+},
+{
 	"kdsf_id": "Pu6",
 	"title": "Publikationstyp",
 	"file": "ksdf/publikationstyp"
@@ -115,12 +100,42 @@
 	"kdsf_id": "Be9",
 	"title": "Qualifikation",
 	"file": "ksdf/qualifikation"
+},
+{
+	"kdsf_id": "Pu146",
+	"title": "Qualifikationsschrift",
+	"file": "ksdf/qualifikationsschrift"
+},
+{
+	"kdsf_id": "Pu55",
+	"title": "Schöfpertyp",
+	"file": "cerif/schoepfertyp"
+},
+{
+	"kdsf_id": "Be32",
+	"title": "Tätigkeitsart",
+	"file": "ksdf/taetigkeitsart"
+},
+{
+	"kdsf_id": "Fi4",
+	"title": "Typ Forschungsinfrastr.",
+	"file": "ksdf/typForschungsinfrastruktur"
+},
+{
+	"kdsf_id": "Fi6",
+	"title": "Zugangsarten",
+	"file": "ksdf/zugangsart"
+},
+{
+	"kdsf_id": "Pu19",
+	"title": "Zugangsrechte",
+	"file": "cerif/zugangsrecht"
 }
 ]
 </script>
 
 <div id="format"></div>
-
+</div>
 
 
 <script src="doc/script.js"></script>

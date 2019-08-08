@@ -75,34 +75,46 @@ function renderResponse() {
 
 function handleMappings() {
 	let html = '';
-	let mapping = JSON.parse(document.querySelector('#mapping-data').textContent);
+	window.mapping = JSON.parse(document.querySelector('#mapping-data').textContent);
 
 	// Table of content
-	html = html + '<table><tr><th>KDSF</th><th>Name</th><th>Links</th></tr>';
-	for (let entry of mapping) {
+	html = html + '<ul>';
+	for (let entry of window.mapping) {
 		let id = escapeHtml(entry.file.replace('/', '_'));
-		html = html
-			+ "<tr><td>" + escapeHtml(entry.kdsf_id) 
-			+ "</td><td>" + escapeHtml(entry.title)
-			+ '</td><td><a href="#' + id + '">Tabelle</a> '
-			+ '<a href="key_mapping/' + escapeHtml(entry.file) + '.csv">CSV</a></td></tr>';
+		html = html + '<li><a href="#' + id + '">' + escapeHtml(entry.title) + '</a>';
 	}
-	html = html + "</table>";
+	html = html + "</ul>";
+	document.querySelector('#mapping-navigation-placeholder').innerHTML = html;
 
-	// Individual tables
-	for (let entry of mapping) {
-		let id = escapeHtml(entry.file.replace('/', '_'));
-		html = html
-			+ '<h3 id="' + id + '">' + escapeHtml(entry.title) + '</h3>'
-			+ '<div id="t' + id + '"></div>'
-			+ '<p><a href="key_mapping/' + escapeHtml(entry.file) + '.csv">CSV-Export</a> * <a href="#mapping">Zurück zur Übersicht</a><br><br>';
-
-		let xhr = new XMLHttpRequest();
-		xhr.open('GET', 'key_mapping/' + entry.file + ".csv");
-		xhr.send();
-		xhr.onload = renderResponse;
-	}
-	document.querySelector("#mapping-placeholder").innerHTML = html;
+	onHashChange();
 }
+
+function onHashChange() {
+	console.log('hashchange', window.location.hash);
+	if (!window.location.hash) {
+		document.querySelector('#mapping-placeholder').innerHTML = '';
+		return;
+	}
+	let entryname = window.location.hash.substring(1);
+	for (let entry of window.mapping) {
+		let id = escapeHtml(entry.file.replace('/', '_'));
+		if (id === entryname) {
+			let html = '<h3>' + escapeHtml(entry.title) + ' (' + entry.kdsf_id + ')' 
+				+ '</h3>'
+				+ '<div id="t' + id + '"></div>'
+				+ '<p><a href="key_mapping/' + escapeHtml(entry.file) + '.csv">CSV-Export</a><br><br>';
+	
+			let xhr = new XMLHttpRequest();
+			xhr.open('GET', 'key_mapping/' + entry.file + ".csv");
+			xhr.send();
+			xhr.onload = renderResponse;
+			document.querySelector('#mapping-placeholder').innerHTML = html;
+			return;
+		}
+	}
+
+}
+
+window.addEventListener('hashchange', onHashChange);
 
 handleMappings();
